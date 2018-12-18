@@ -1,0 +1,38 @@
+
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  width: 100%;
+  background-color: red;
+}
+
+.page-container {
+  width: 1100px;
+  margin: 10px auto;
+  padding: 32px;
+  background-color: orange;
+}
+
+
+.product-listing {
+  display: flex;
+  flex: 1;
+  flex-wrap: wrap;
+  flex-direction: row;
+}
+
+.product-listing .product-list-item  {
+  padding: 10px 80px;
+  width: 200px;
+
+}
+
+.product-list-item {
+   transition: transform .2s;
+}
+
+.product-list-item:hover{
+  transform: scale(1.5);
+}
