@@ -14,6 +14,19 @@
       "price": 19.99
     },
     {
+      "id": 4,
+      "name": "Premium Goods Houston Tee",
+      "description": "Kevin is a tall, two-eyed minion with sprout cut hair and is usually seen wearing his golf apparel. This plush version of him is extremely huggable and makes a great best friend for your young child. He is stitched well and has no small parts to choke on.",
+      "keywords": [
+        "stuffed", "plush", "minions", "Despicable Me"
+      ],
+      "image": "2-blktee.jpg",
+      "age": [
+        "0", "10"
+      ],
+      "price": 12.99
+    },
+    {
       "id": 2,
       "name": "Checkard Houston Rockets Jersey ",
       "description": "Houston Rockets Jersey with checkard pattern from Urban Outfits collection.",
@@ -55,7 +68,7 @@
     {
       "id": 5,
       "name": "Clutch City ",
-      "description": "Bob is a short and bald minion with multi-colored eyes (green and brown). He often carries around a teddy bear that he owns called Tim, which is brown with yellow buttoned eyes. This plush version of him is extremely huggable and makes a great best friend for your young child. He is stitched well and has no small parts to choke on.",
+      "description": "Topo Chico Bayou Water Clutch City Shirt in Black",
       "keywords": [
         "stuffed", "plush", "minions", "Despicable Me"
       ],
@@ -67,8 +80,8 @@
     },
     {
       "id": 4,
-      "name": "Black Houston Hat",
-      "description": "Kevin is a tall, two-eyed minion with sprout cut hair and is usually seen wearing his golf apparel. This plush version of him is extremely huggable and makes a great best friend for your young child. He is stitched well and has no small parts to choke on.",
+      "name": "H-town Rockets Shirt",
+      "description": "H-town shirt in yellow and Red with Houston Rockets.",
       "keywords": [
         "stuffed", "plush", "minions", "Despicable Me"
       ],
@@ -80,7 +93,7 @@
     },
     {
       "id": 4,
-      "name": "Black Houston Hat",
+      "name": "White Houston Rockets Shirt",
       "description": "Kevin is a tall, two-eyed minion with sprout cut hair and is usually seen wearing his golf apparel. This plush version of him is extremely huggable and makes a great best friend for your young child. He is stitched well and has no small parts to choke on.",
       "keywords": [
         "stuffed", "plush", "minions", "Despicable Me"
@@ -93,7 +106,7 @@
     },
     {
       "id": 4,
-      "name": "Black Houston Hat",
+      "name": "White Astros Shirt",
       "description": "Kevin is a tall, two-eyed minion with sprout cut hair and is usually seen wearing his golf apparel. This plush version of him is extremely huggable and makes a great best friend for your young child. He is stitched well and has no small parts to choke on.",
       "keywords": [
         "stuffed", "plush", "minions", "Despicable Me"
@@ -106,7 +119,7 @@
     },
     {
       "id": 4,
-      "name": "Black Houston Hat",
+      "name": "Welcome 2 Houston Slim Thug Clothing",
       "description": "Kevin is a tall, two-eyed minion with sprout cut hair and is usually seen wearing his golf apparel. This plush version of him is extremely huggable and makes a great best friend for your young child. He is stitched well and has no small parts to choke on.",
       "keywords": [
         "stuffed", "plush", "minions", "Despicable Me"
@@ -118,7 +131,7 @@
       "price": 12.99
     },  {
         "id": 4,
-        "name": "Black Houston Hat",
+        "name": "Retro Rockets Hat",
         "description": "Kevin is a tall, two-eyed minion with sprout cut hair and is usually seen wearing his golf apparel. This plush version of him is extremely huggable and makes a great best friend for your young child. He is stitched well and has no small parts to choke on.",
         "keywords": [
           "stuffed", "plush", "minions", "Despicable Me"
@@ -131,7 +144,7 @@
       },
       {
         "id": 4,
-        "name": "Black Houston Hat",
+        "name": "Houston H&M Sweatshirt",
         "description": "Kevin is a tall, two-eyed minion with sprout cut hair and is usually seen wearing his golf apparel. This plush version of him is extremely huggable and makes a great best friend for your young child. He is stitched well and has no small parts to choke on.",
         "keywords": [
           "stuffed", "plush", "minions", "Despicable Me"
@@ -144,12 +157,64 @@
       },
       {
         "id": 4,
-        "name": "Black Houston Hat",
+        "name": "Houston H&M Sweatshirt",
         "description": "Kevin is a tall, two-eyed minion with sprout cut hair and is usually seen wearing his golf apparel. This plush version of him is extremely huggable and makes a great best friend for your young child. He is stitched well and has no small parts to choke on.",
         "keywords": [
           "stuffed", "plush", "minions", "Despicable Me"
         ],
         "image": "housweatshirtblu.jpeg",
+        "age": [
+          "0", "10"
+        ],
+        "price": 12.99
+      },
+      {
+        "id": 4,
+        "name": "FYHA in  Black",
+        "description": "Kevin is a tall, two-eyed minion with sprout cut hair and is usually seen wearing his golf apparel. This plush version of him is extremely huggable and makes a great best friend for your young child. He is stitched well and has no small parts to choke on.",
+        "keywords": [
+          "stuffed", "plush", "minions", "Despicable Me"
+        ],
+        "image": "fyha_black.jpg",
+        "age": [
+          "0", "10"
+        ],
+        "price": 12.99
+      },
+      {
+        "id": 4,
+        "name": "Retro UO Rockets Hat",
+        "description": "Kevin is a tall, two-eyed minion with sprout cut hair and is usually seen wearing his golf apparel. This plush version of him is extremely huggable and makes a great best friend for your young child. He is stitched well and has no small parts to choke on.",
+        "keywords": [
+          "stuffed", "plush", "minions", "Despicable Me"
+        ],
+        "image": "Hourockhat.jpeg",
+        "age": [
+          "0", "10"
+        ],
+        "price": 12.99
+      },
+      {
+        "id": 4,
+        "name": "Houston Rockets Black Retro Hoodie",
+        "description": "Kevin is a tall, two-eyed minion with sprout cut hair and is usually seen wearing his golf apparel. This plush version of him is extremely huggable and makes a great best friend for your young child. He is stitched well and has no small parts to choke on.",
+        "keywords": [
+          "stuffed", "plush", "minions", "Despicable Me"
+        ],
+        "image": "houRockethoodie.jpeg",
+        "age": [
+          "0", "10"
+        ],
+        "price": 12.99
+      },
+      {
+        "id": 4,
+        "name": "Houston Rockets Hat",
+        "description": "Kevin is a tall, two-eyed minion with sprout cut hair and is usually seen wearing his golf apparel. This plush version of him is extremely huggable and makes a great best friend for your young child. He is stitched well and has no small parts to choke on.",
+        "keywords": [
+          "stuffed", "plush", "minions", "Despicable Me"
+        ],
+        "image": "blkrockethat.jpeg",
         "age": [
           "0", "10"
         ],
