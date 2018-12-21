@@ -1,6 +1,8 @@
 import React, { Component } from 'react';
 import Router from './Router'
 import { NavLink } from 'react-router-dom'
+import {Elements, StripeProvider} from 'react-stripe-elements';
+import CheckoutForm from './CheckoutForm';
 
 const Navigation = (props) => <nav>
 <ul>
@@ -9,12 +11,33 @@ const Navigation = (props) => <nav>
 </ul>
 </nav>
 
+// class App extends Component {
+//   render (){
+//     return <div className="page-container">
+//       <Navigation />
+//       <Router />
+//     </div>
+//   }
+// }
+//
+// export default App;
+
 class App extends Component {
-  render (){
+  render() {
     return <div className="page-container">
-      <Navigation />
-      <Router />
-    </div>
+      <StripeProvider apiKey="pk_test_TYooMQauvdEDq54NiTphI7jx">
+        <div className="example">
+        <Navigation />
+        <Router />
+
+          <h1>Donate To Houston Request </h1>
+          <Elements>
+            <CheckoutForm />
+          </Elements>
+        </div>
+      </StripeProvider>
+      </div>
+
   }
 }
 
