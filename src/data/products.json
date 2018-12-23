@@ -219,7 +219,57 @@
           "0", "10"
         ],
         "price": 12.99
+      },
+      {
+        "id": 4,
+        "name": "Astro Street sign",
+        "description": "This way to Houston AstroLand",
+        "keywords": [
+          "stuffed", "plush", "minions", "Despicable Me"
+        ],
+        "image": "astrosign.jpg",
+        "age": [
+          "0", "10"
+        ],
+        "price": 12.99
+      },
+      {
+        "id": 4,
+        "name": "Houston FYHA Cup",
+        "description": "Take it anywhere you want",
+        "keywords": [
+          "stuffed", "plush", "minions", "Despicable Me"
+        ],
+        "image": "houcup.jpg",
+        "age": [
+          "0", "10"
+        ],
+        "price": 12.99
+      },
+      {
+        "id": 4,
+        "name": "Houston Wu Tang ",
+        "description": "Houston with the drip of Wu Tang.",
+        "keywords": [
+          "stuffed", "plush", "minions", "Despicable Me"
+        ],
+        "image": "fyhaHouTang.jpg",
+        "age": [
+          "0", "10"
+        ],
+        "price": 12.99
+      },{
+        "id": 4,
+        "name": "Houston PacMan",
+        "description": "PacMan and Houston lovers.",
+        "keywords": [
+          "stuffed", "plush", "minions", "Despicable Me"
+        ],
+        "image": "fyhaPac.jpg",
+        "age": [
+          "0", "10"
+        ],
+        "price": 12.99
       }
-
   ]
 }
