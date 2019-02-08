@@ -16,7 +16,7 @@ class CheckoutForm extends Component {
     body: token.id
   });
 
-  if (response.ok) console.log("Purchase is Completed!")
+  if (response.ok) console.log("Purchase is Completed Thank you and come again !")
     // User clicked submit
   }
 
