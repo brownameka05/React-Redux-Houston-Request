@@ -32,3 +32,5 @@ class CheckoutForm extends Component {
 }
 
 export default injectStripe(CheckoutForm);
+
+// check out try pay pal
