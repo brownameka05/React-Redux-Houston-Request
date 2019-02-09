@@ -11,6 +11,7 @@ const Navigation = (props) => <nav>
 </ul>
 </nav>
 
+
 // class App extends Component {
 //   render (){
 //     return <div className="page-container">
@@ -21,6 +22,8 @@ const Navigation = (props) => <nav>
 // }
 //
 // export default App;
+
+
 
 class App extends Component {
   render() {
