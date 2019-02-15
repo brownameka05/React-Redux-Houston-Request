@@ -7,7 +7,7 @@ import CheckoutForm from './CheckoutForm';
 const Navigation = (props) => <nav>
 <ul>
   <li><NavLink to='/'>Home</NavLink></li>
-  <li><NavLink to='/cart'>Cart</NavLink></li>
+  <li><NavLink to='/cart'>Shopping Cart</NavLink></li>
 </ul>
 </nav>
 
