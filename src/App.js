@@ -33,7 +33,7 @@ class App extends Component {
         <Navigation />
         <Router />
 
-          <h1>Donate To Houston Request! </h1>
+          <h1>Donate To the Houston Request! </h1>
           <Elements>
             <CheckoutForm />
           </Elements>
