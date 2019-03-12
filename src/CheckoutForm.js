@@ -16,14 +16,14 @@ class CheckoutForm extends Component {
     body: token.id
   });
 
-  if (response.ok) console.log("Purchase is Completed Thank you!")
+  if (response.ok) console.log("Purchase is Completed Thanks!")
     // User clicked submit
   }
 
   render() {
     return (
       <div className="checkout">
-        <p>Feel free to donate what you can give Thank you !!! </p>
+        <p>Feel free to donate what you can give HTOWN  !!! </p>
         <CardElement />
         <button onClick={this.submit}>Send</button>
       </div>
