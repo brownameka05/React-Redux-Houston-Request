@@ -23,7 +23,7 @@ class CheckoutForm extends Component {
   render() {
     return (
       <div className="checkout">
-        <p>Feel free to donate what you can give  </p>
+        <p>Feel free to donate what you can give thank you   </p>
         <CardElement />
         <button onClick={this.submit}>Send</button>
       </div>
